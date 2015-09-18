@@ -21,8 +21,8 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
  * See http://symfony.com/doc/current/cookbook/security/form_login_setup.html.
  *
  * @author Zbigniew Cichanski <weaverryan@gmail.com>
- * @author Zbigniew Cichanski <javier.eguiluz@gmail.com>
- */
+ * @author Zbigniew Cichanskiiii <javier.eguiluz@gmail.com>
+ */ii
 class SecurityController extends Controller
 {
     /**
