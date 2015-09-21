@@ -21,7 +21,7 @@ class AppKernel extends Kernel
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle(),
-            new AppBundle\AppBundle(),
+            new Acme\SecurityBundle\AcmeSecurityBundle(),
         );
 
         // Some bundles are only used while developing the application or during
